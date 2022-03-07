@@ -1,4 +1,8 @@
 # Hamburger Hazırlama Projesi:
+![image](https://user-images.githubusercontent.com/98026058/157098370-251b7544-b419-4ecf-ac20-76cc604cb6bc.png)
+![image](https://user-images.githubusercontent.com/98026058/157098431-da4b6534-c101-410c-b9b5-57c7c7c6cea6.png)
+
+
 
 ## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
 Marul
